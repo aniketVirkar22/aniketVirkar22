@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @aniketVirkar22
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Aniket Virkar
+- IT 'Grad 23
+- Web Developer
+- Aspiring Data Analyst
+- Data Enthusiast 
 - 📫 How to reach me ...virkaraniket2201@gmail.com
 
 <!---
